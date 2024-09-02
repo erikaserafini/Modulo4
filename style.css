@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    color:black;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+    height: 70px;
+    color: white;
+    align-content: center;
+}
+
+.left {
+    display:flex;
+    justify-content: start;
+    align-items: center;
+    
+}
+
+.home{
+    margin: 10px;
+    font-size: 18px;
+}
+
+.nav{
+    margin: 10px;
+    font-size: 24px;
+}
+
+.backoff{
+    font-size: 18px;
+}
+
+.marca-price{
+    display: flex;
+}
+
+.inserisci-prodotti{
+    margin-left: 100px;
+    margin-top: 100px;
+}
